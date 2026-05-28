@@ -1,0 +1,32 @@
+aid: favqs-com
+name: FavQs.com
+description: "FavQs allows you to collect, discover and share your favorite quotes"
+url: https://favqs.com/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Personality"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Personality
+  - Public APIs
+apis:
+  - name: FavQs.com
+    description: "FavQs allows you to collect, discover and share your favorite quotes"
+    humanURL: https://favqs.com/api
+    baseURL: https://favqs.com/api
+    tags:
+      - Personality
+    properties:
+      - type: Documentation
+        url: https://favqs.com/api
+common:
+  - type: Website
+    url: https://favqs.com/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
