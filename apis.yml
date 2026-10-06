@@ -27,7 +27,7 @@ description: "FavQs allows you to collect, discover and share your favorite quot
 url: https://favqs.com/api
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Personality"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://favqs.com/api
 common:
+  - url: https://favqs.com/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/favqs-com-domain-security.yml
   - type: Website
